@@ -42,6 +42,8 @@ The dashboard is built using the following columns:
 
 The air quality data is collected from authorized environmental monitoring agencies.
 
+### Screenshot
+![Dashboard](Screenshots/Air_quality.png)
 ## Getting Started
 
 To use the dashboard:
